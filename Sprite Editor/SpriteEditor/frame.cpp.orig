@@ -1,0 +1,115 @@
+#include "frame.h"
+#include <QColor>
+#include <QRgb>
+#include <QDebug>
+#include <iostream>
+#include <vector>
+#include <QFileDialog>
+#include <QString>
+
+/**
+ * @brief Frame::Frame constructor
+ */
+Frame::Frame()
+{
+<<<<<<< HEAD
+    frameSize = 8;
+    SetBackground();
+}
+
+/**
+ * @brief Frame::~Frame destructor
+ */
+Frame::~Frame()
+{
+    delete backgroundScene;
+
+=======
+    SetBackground(frameSize);
+    firstImage = QImage(512, 512, QImage::Format_ARGB32);
+    firstImage.fill(QColor(0, 0, 0,0));
+    imageFrames.push_back(firstImage);
+>>>>>>> linesSafia
+}
+
+/**
+ * @brief Frame::AddFrame - adds a new QImage in the imageFrames vector, sends new frame to mainwindow
+ */
+void Frame::AddFrame()
+{
+    QImage newFrame = QImage(512, 512, QImage::Format_ARGB32);
+    newFrame.fill(QColor(0, 0, 0, 0));
+    imageFrames.push_back(newFrame);
+    emit SendFrameSignal(newFrame);
+}
+
+/**
+ * @brief Frame::DeleteFrame - deletes a QImage from imageFrames
+ * @param index
+ */
+void Frame::DeleteFrame(int index)
+{
+    imageFrames.erase(imageFrames.begin()+index);
+}
+
+/**
+ * @brief Frame::Save - saves a file of all the images
+ * @param filename
+ */
+void Frame::Save(QString filename)
+{
+    QFile file(filename);
+    if (file.open(QIODevice::WriteOnly))
+    {
+        QTextStream stream(&file);
+        int gridSquareSize = 64;  //hardcoded size //////////////////////////////////
+
+        stream << 512/gridSquareSize << " " << 512/gridSquareSize << "\n";
+        stream << imageFrames.count() << "\n";
+
+        for (int frame = 0; frame < imageFrames.count(); frame++)
+        {
+            for (int row = 0; row < 512/gridSquareSize; row++)
+            {
+                for (int col = 0; col < (512/gridSquareSize); col++)
+                {
+                    QColor pixelColor = imageFrames[frame].pixel((col+0.5)*gridSquareSize, (row+0.5)*gridSquareSize);
+                    int alpha = qAlpha(imageFrames[frame].pixel((col+0.5)*gridSquareSize, (row+0.5)*gridSquareSize));
+                    stream << pixelColor.red() << " " << pixelColor.green() << " " << pixelColor.blue() << " " <<
+                              alpha << " ";
+                }
+                stream << "\n";
+            }
+        }
+    }
+}
+
+void Frame::FramesToGif()
+{
+
+}
+
+/**
+ * @brief Frame::SetBackground - creates a transparent scene for the main window imageView to use.
+ */
+void Frame::SetBackground()
+{
+    QImage background = QImage(512, 512, QImage::Format_ARGB32);
+    background.fill(QColor(0, 0, 0,0));
+
+    QPixmap backgroundPix = QPixmap::fromImage(background);
+    backgroundScene = new QGraphicsScene();
+    backgroundScene ->addPixmap(backgroundPix);
+    //SendBackgroundSignal(backgroundScene);
+}
+
+void Frame::SetGridSize(QString gridSize)
+{
+    QStringList split = gridSize.split("x");
+    if (split[0] == "")
+        frameSize = 8;
+    else
+        frameSize = split[0].toInt();
+std::cout << frameSize;
+
+}

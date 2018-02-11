@@ -1,0 +1,10 @@
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Resources\bin\Debug\Packages\README.txt
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Resources\bin\Debug\Resources.dll.config
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Resources\bin\Debug\Resources.dll
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Resources\bin\Debug\Resources.pdb
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Resources\bin\Debug\Newtonsoft.Json.dll
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Resources\bin\Debug\Newtonsoft.Json.xml
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Resources\obj\Debug\Resources.dll
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Resources\obj\Debug\Resources.pdb

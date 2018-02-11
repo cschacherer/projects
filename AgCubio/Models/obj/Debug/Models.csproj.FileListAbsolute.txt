@@ -1,0 +1,8 @@
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Models\bin\Debug\Models.dll
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Models\bin\Debug\Models.pdb
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Models\bin\Debug\Newtonsoft.Json.dll
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Models\bin\Debug\Newtonsoft.Json.xml
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Models\obj\Debug\Models.dll
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Models\obj\Debug\Models.pdb

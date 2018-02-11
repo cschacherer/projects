@@ -1,0 +1,109 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Earth.jpg</file>
+        <file>venus.jpg</file>
+        <file>mar.jpg</file>
+        <file>neptune.png</file>
+        <file>uranus.png</file>
+        <file>jupiter.png</file>
+        <file>mercury.png</file>
+        <file>pluto.png</file>
+        <file>saturn.png</file>
+        <file>sun.jpg</file>
+        <file>moon.jpg</file>
+        <file>rocketLiftOff.png</file>
+        <file>astro-2.png</file>
+        <file>bubble3.png</file>
+        <file>SpaceImage.png</file>
+        <file>backgroundImage.png</file>
+    </qresource>
+    <qresource prefix="/earthItems">
+        <file>earthCell.png</file>
+        <file>earthComb.png</file>
+        <file>earthFood.png</file>
+        <file>earthIPod.png</file>
+        <file>earthLighter.png</file>
+        <file>earthOxygen.png</file>
+        <file>earthRadio.png</file>
+        <file>earthSpaceBlanket.png</file>
+        <file>earthWaterBottle.png</file>
+    </qresource>
+    <qresource prefix="/moonItems">
+        <file>moonDirt.png</file>
+        <file>moonFarSide.png</file>
+        <file>moonFlag.png</file>
+        <file>moonMaria.png</file>
+        <file>moonNearSide.png</file>
+    </qresource>
+    <qresource prefix="/mercuryItems">
+        <file>mercuryDirt.png</file>
+        <file>mercuryMantle.png</file>
+        <file>mercuryMetalCore.png</file>
+        <file>moonCrustSample.png</file>
+    </qresource>
+    <qresource prefix="/venusItems">
+        <file>venusDirt.png</file>
+        <file>venusMagneticFieldSample.png</file>
+        <file>venusRockyMantle.png</file>
+    </qresource>
+    <qresource prefix="/marsItems">
+        <file>marsIron.png</file>
+        <file>marsSoil.png</file>
+        <file>marsrover.png</file>
+    </qresource>
+    <qresource prefix="/jupiterItems">
+        <file>jupiterCore.png</file>
+        <file>jupiterIceParticles.png</file>
+        <file>jupiterLiquidMetalicHydrogen.png</file>
+    </qresource>
+    <qresource prefix="/saturnItems">
+        <file>saturnCore.png</file>
+        <file>saturnIceParticles copy 4.png</file>
+        <file>saturnLiquidHydrogen.png</file>
+    </qresource>
+    <qresource prefix="/uranusItems">
+        <file>uranusCore.png</file>
+        <file>uranusIceParticles copy 3.png</file>
+        <file>uranusLiquidHydrogen.png</file>
+    </qresource>
+    <qresource prefix="/neptuneItems">
+        <file>neptuneCore.png</file>
+        <file>neptuneIceParticles copy 2.png</file>
+        <file>neptuneLiquidHydrogen.png</file>
+    </qresource>
+    <qresource prefix="/journalItems">
+        <file>earth_Journal.jpg</file>
+        <file>Jupiter_Journal.jpg</file>
+        <file>Mars_Journal.jpg</file>
+        <file>mercury_Journal.jpg</file>
+        <file>moon_Journal.jpg</file>
+        <file>pluto_Journal.jpeg</file>
+        <file>Saturn_Journal.png</file>
+        <file>sun_Journal.jpg</file>
+        <file>the-milky-way_Journal.jpg</file>
+        <file>uranus_Journal.jpg</file>
+        <file>Venus_Journal.jpg</file>
+        <file>orngLeftArrow.png</file>
+        <file>orngRightArrow.png</file>
+        <file>Neptune_Journal.jpg</file>
+    </qresource>
+    <qresource prefix="/backpackItems">
+        <file>earthBackpack.ico</file>
+        <file>moonBackpack.png</file>
+        <file>jupiterBackpack.ico</file>
+        <file>marsBackpack.png</file>
+        <file>mercuryBackpack.png</file>
+        <file>neptuneBackpack.ico</file>
+        <file>saturnBackpack.png</file>
+        <file>uranusBackpack.png</file>
+        <file>venusBackpack.ico</file>
+        <file>sunBackpack.png</file>
+        <file>plutoBackpack.png</file>
+        <file>venusBackground.jpg</file>
+        <file>neptuneBackground.jpeg</file>
+        <file>jupiterBackground.jpg</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>music.wav</file>
+    </qresource>
+</RCC>

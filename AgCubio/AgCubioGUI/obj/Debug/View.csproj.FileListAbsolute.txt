@@ -1,0 +1,16 @@
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\AgCubioGUI\bin\Debug\AgCubioGUI.exe.config
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\AgCubioGUI\bin\Debug\AgCubioGUI.exe
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\AgCubioGUI\bin\Debug\AgCubioGUI.pdb
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\AgCubioGUI\bin\Debug\Models.dll
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\AgCubioGUI\bin\Debug\Network Controller.dll
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\AgCubioGUI\bin\Debug\Newtonsoft.Json.dll
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\AgCubioGUI\bin\Debug\Models.pdb
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\AgCubioGUI\bin\Debug\Network Controller.pdb
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\AgCubioGUI\bin\Debug\Newtonsoft.Json.xml
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\AgCubioGUI\obj\Debug\View.csprojResolveAssemblyReference.cache
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\AgCubioGUI\obj\Debug\AgCubio.AgCubioGUI.resources
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\AgCubioGUI\obj\Debug\AgCubioGUI.Properties.Resources.resources
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\AgCubioGUI\obj\Debug\View.csproj.GenerateResource.Cache
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\AgCubioGUI\obj\Debug\View.csproj.CoreCompileInputs.cache
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\AgCubioGUI\obj\Debug\AgCubioGUI.exe
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\AgCubioGUI\obj\Debug\AgCubioGUI.pdb

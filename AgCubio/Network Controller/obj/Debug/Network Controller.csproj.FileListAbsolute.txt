@@ -1,0 +1,12 @@
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Network Controller\bin\Debug\Network Controller.dll
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Network Controller\bin\Debug\Network Controller.pdb
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Network Controller\bin\Debug\Json.dll
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Network Controller\bin\Debug\Models.dll
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Network Controller\bin\Debug\Newtonsoft.Json.dll
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Network Controller\bin\Debug\Models.pdb
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Network Controller\bin\Debug\Json.pdb
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Network Controller\bin\Debug\Newtonsoft.Json.xml
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Network Controller\obj\Debug\Network Controller.csprojResolveAssemblyReference.cache
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Network Controller\obj\Debug\Network Controller.csproj.CoreCompileInputs.cache
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Network Controller\obj\Debug\Network Controller.dll
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Network Controller\obj\Debug\Network Controller.pdb

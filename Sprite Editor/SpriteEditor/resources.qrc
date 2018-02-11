@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Tools.png</file>
+        <file>Open_v2.png</file>
+        <file>New_file.png</file>
+        <file>Info.png</file>
+        <file>file.png</file>
+        <file>Addnew.png</file>
+        <file>close.png</file>
+        <file>Save.png</file>
+        <file>Export.png</file>
+     </qresource>
+    <qresource prefix="/background">
+        <file>BackgroundPicture/background.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>Images/add.png</file>
+        <file>Images/brush.png</file>
+        <file>Images/bucket.png</file>
+        <file>Images/diamond.png</file>
+        <file>Images/erase.png</file>
+        <file>Images/filledSquare.png</file>
+        <file>Images/heart.png</file>
+        <file>Images/line.png</file>
+        <file>Images/minus.png</file>
+        <file>Images/square.png</file>
+        <file>Images/stamp.png</file>
+        <file>Images/star.png</file>
+        <file>Images/triangle.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,2 @@
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\OldGitHubProjects\DreamTeam-database\AgCubioGUI\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
